@@ -1,0 +1,4 @@
+run = "python '이것이 코딩 테스트다'/main.py"
+
+[nix]
+channel = "stable-22_11"
