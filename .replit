@@ -1,4 +1,4 @@
-run = "python '이것이 코딩 테스트다'/ex3-1_거스름돈.py"
+run = "python '이것이 코딩 테스트다'/Chapter4/ex4-3_왕실나이트.py"
 
 [nix]
 channel = "stable-22_11"
